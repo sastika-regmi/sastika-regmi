@@ -51,6 +51,10 @@ const sastika = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 ### 🌐 Web Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -62,6 +66,8 @@ const sastika = {
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -76,6 +82,12 @@ const sastika = {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### 🤖 AI & APIs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ---
 
@@ -105,6 +117,33 @@ AI-powered document analysis tool:
 - 🤖 AI-generated summaries
 - 💡 Intelligent insights
 - 🔍 Advanced search capabilities
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☕ Cookies Cafe
+**Tech:** Node.js • Express • PostgreSQL • React • Tailwind • OpenAI • Stripe
+
+AI-powered cafe e-commerce platform:
+- 🤖 AI chatbot & voice ordering
+- 📖 Customer stories feature
+- 🎁 Loyalty program system
+- 📍 Real-time order tracking
+
+</td>
+<td width="50%">
+
+### 📱 HamroByapar
+**Tech:** Flutter • Riverpod • Drift SQLite • Material 3
+
+Offline business management app:
+- 📴 Works completely offline
+- 🧾 Invoicing & PDF generation
+- 📦 Inventory management
+- 🇳🇵 VAT compliance for Nepal SMEs
 
 </td>
 </tr>
